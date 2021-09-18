@@ -1,5 +1,5 @@
 # Python program to swap two elements in a list on given positions
-# Kira Ticket: https://blackhawk.atlassian.net/browse/BLAC-3
+# Jira Ticket: https://blackhawk.atlassian.net/browse/BLAC-3
 
 class SwapTwoElements:
 
