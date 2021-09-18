@@ -10,4 +10,4 @@ class SwapWithEachother:
         print(replaced_and_new_list)
 
 obj = SwapWithEachother()
-obj.swap_two_elements( ['Gfg', 'is', 'best', 'for', 'Geeks'], 'e','G')
+obj.swap_two_elements( ['Good', 'This', 'best', 'for', 'Leet','Test'], 'e','G')
